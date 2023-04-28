@@ -1,0 +1,2 @@
+This is a test file.
+I'm trying to open it from PyCharm.
